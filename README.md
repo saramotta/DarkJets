@@ -1,2 +1,2 @@
 # DarkJets
-A python notebook to model jet-ISM interaction
+A python notebook to modelaction between jets and the interstellar medium
